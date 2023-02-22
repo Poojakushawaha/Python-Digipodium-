@@ -7,4 +7,3 @@ for i in range(side):
     lt(360/side)
     write(i)
 hideturtle()
-mainloop()
